@@ -22,7 +22,7 @@ Site created with Bootstrap5, CSS3, JavaScript, PHP, & MySQL. Deployed with 000w
 
 ## Live Demo
 
-View live demo here: [Demo](https://thatsmydog.000webhostapp.com/dogcheck.php)
+View live demo here: [Demo](https://thatsmydog.000webhostapp.com/)
 
 ## Contact
 
