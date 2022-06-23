@@ -4,13 +4,22 @@ Site first designed with Figma then coded with Bootstrap5, CSS3, JavaScript, PHP
 
 ## Table of contents
 
-- [Screenshots](#screenshots)
+- [Screenshots Old Design](#screenshots-old)
+- [Screenshots New Design](#screenshots-new)
 - [Technologies](#technologies)
-- [Live Demo](#live-demo)
-- [Link To Design](#design-file)
+- [Old Site Live Demo](#live-demo-old)
+- [New Site Live Demo](#live-demo-new)
+- [Link To New Design File](#design-file)
 - [Contact](#contact)
 
-## Screenshots
+
+## Screenshots Old
+
+<img src="public/img/old-screenshot-one.png">
+<img src="public/img/old-screenshot-two.png">
+
+
+## Screenshots New
 
 <img src="public/img/screenshot-one.png">
 <img src="public/img/screenshot-two.png">
@@ -19,15 +28,23 @@ Site first designed with Figma then coded with Bootstrap5, CSS3, JavaScript, PHP
 
 ## Technologies
 
-- Figma, Bootstrap5, CSS3, JavaScript, PHP, & MySQL. Deployed with 000webhostapp.com..
+- Figma, Bootstrap5, CSS3, JavaScript, PHP, & MySQL. Deployed with 000webhostapp.com.
 
-## Live Demo
+
+## Live Demo Old
+
+View live demo here: [Demo](https://thatsmydoggy.000webhostapp.com/)
+
+
+## Live Demo New
 
 View live demo here: [Demo](https://thatsmydog.000webhostapp.com/)
+
 
 ## Design File
 
 View Figma design file here: [Figma File](https://www.figma.com/file/rR2re95veVtcfxBzLdlej8/Hey-Buddy!?node-id=0%3A1)
+
 
 ## Contact
 
