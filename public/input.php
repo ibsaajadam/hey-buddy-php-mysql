@@ -1,25 +1,8 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../style.css">
-    <!-- Stylesheet -->
-    <title>Hey Buddy!</title>
-</head>
-<body>
+<?php require('components/head.inc.php'); ?>
     <div class="wrapper">
         <!-- Left Side-->
-        <div class="left">
-            <div class="title pt-2">
-                <h1>Hey Buddy!</h1>
-            </div>
-            <div class="image">
-                <img class="dog" src="img/main-dog.jpg" alt="main dog">
-            </div>
-        </div>
+        
+        <?php include('components/dogimage.inc.php'); ?>  
 
         <!-- Right Side-->
         <div class="right ps-4">
@@ -63,7 +46,4 @@
             </div>
         </div>
     </div>
-    
-    <script src="../js/app.js"></script>
-</body>
-</html>
+<?php require('components/footer.inc.php'); ?>
