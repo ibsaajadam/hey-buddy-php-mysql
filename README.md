@@ -7,7 +7,6 @@ Site first designed with Figma then coded with Bootstrap5, CSS3, JavaScript, PHP
 - [Screenshots Old Design](#screenshots-old)
 - [Screenshots New Design](#screenshots-new)
 - [Technologies](#technologies)
-- [Old Site Live Demo](#live-demo-old)
 - [New Site Live Demo](#live-demo-new)
 - [Link To New Design File](#design-file)
 - [Contact](#contact)
@@ -29,11 +28,6 @@ Site first designed with Figma then coded with Bootstrap5, CSS3, JavaScript, PHP
 ## Technologies
 
 - Figma, Bootstrap5, CSS3, JavaScript, PHP, & MySQL. Deployed with 000webhostapp.com.
-
-
-## Live Demo Old
-
-View live demo here: [Demo](https://thatsmydoggy.000webhostapp.com/)
 
 
 ## Live Demo New
