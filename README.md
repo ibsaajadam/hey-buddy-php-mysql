@@ -32,7 +32,7 @@ Site first designed with Figma then coded with Bootstrap5, CSS3, JavaScript, PHP
 
 ## Live Demo New
 
-View live demo here: [Demo](https://thatsmydoggo.000webhostapp.com/)
+View live demo here: [Demo](https://thatsmydog.online/)
 
 
 ## Design File
